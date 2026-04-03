@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ansh Tyagi (@anshtyagi-14)
 
-### 🚀 MERN Stack & DevOps Developer | B.Tech @ VIT Bhopal
+### 🚀 MERN Stack & DevOps Developer | B.Tech @ Vellore Institue Of Technology
 
 - 💻 Focused on building scalable full-stack applications
 - ⚙️ Skilled in MERN Stack and DevOps practices (Docker, CI/CD, Cloud)
