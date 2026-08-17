@@ -8,8 +8,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=anshtyagi-14&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/anshtyagi-14)
-[![GitHub followers](https://img.shields.io/github/followers/anshtyagi-14?style=for-the-badge&color=238636&labelColor=0d1117&logo=github)](https://github.com/anshtyagi-14)
 [![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 
 </div>
@@ -23,7 +21,7 @@
 ```yaml
 name: Ansh Tyagi
 location: India
-university: VIT Vellore (B.Tech CSE '26)
+university: VIT Vellore (B.Tech CSE '27)
 role: Full-Stack Engineer & Cloud Architect
 
 current_focus:
@@ -34,10 +32,10 @@ current_focus:
 experience:
   - SDE Intern @ Reverblunt (Blogy.in)
   - Built CogniSpace (GenAI SaaS on AWS EKS)
-  - Built CampusConnect (Full-Stack Social Platform)
+  - Build @Lazy Founders
 
 fun_facts:
-  - 500+ LeetCode problems solved
+  - 250+ LeetCode problems solved
   - I automate everything I do twice
   - Coffee > Code > Deploy > Repeat
 ```
@@ -85,47 +83,14 @@ fun_facts:
 
 ---
 
-## &#128202; &nbsp;GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anshtyagi-14&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=238636&include_all_commits=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=anshtyagi-14&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshtyagi-14&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-</div>
-
----
-
-## &#127959;&#65039; &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/anshtyagi-14/CogniSpace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshtyagi-14&repo=CogniSpace&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&description_lines=2" width="48%" />
-</a>
-&nbsp;
-<a href="https://github.com/anshtyagi-14/CampusConnect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anshtyagi-14&repo=CampusConnect&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&description_lines=2" width="48%" />
-</a>
-
-</div>
-
----
-
 ## &#129309; &nbsp;Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshtyagi14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-tyagi-272278330)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshtyagi530@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshtyagi-14)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000)](https://leetcode.com/anshtyagi14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://blogy.in)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000)]((https://leetcode.com/u/_ansh_tyagi/))
 
 </div>
 
