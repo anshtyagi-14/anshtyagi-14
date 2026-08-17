@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Ansh%20Tyagi&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevOps&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+systems+that+matter+%F0%9F%9A%80;MERN+%7C+DevOps+%7C+Cloud+Native+%7C+AWS+%E2%98%81%EF%B8%8F;B.Tech+CSE+%40+VIT+Vellore+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+systems+that+matter+%F0%9F%9A%80;MERN+%7C+DevOps+%7C+Cloud+Native+%7C+AWS+%E2%98%81%EF%B8%8F;B.Tech+CSE+%40+VIT+Bhopal+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
