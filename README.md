@@ -8,7 +8,7 @@
 
 <br/>
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]((https://www.credly.com/badges/46714129-fbe2-4ce5-b820-c3bdc64b7f34/public_url))
+[![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/46714129-fbe2-4ce5-b820-c3bdc64b7f34/public_url)
 
 </div>
 
