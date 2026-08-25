@@ -31,7 +31,7 @@ current_focus:
 experience:
   - SDE Intern @ Reverblunt (Blogy.in)
   - Built CogniSpace (GenAI SaaS on AWS EKS)
-  - Build @Lazy Founders
+
 
 fun_facts:
   - 250+ LeetCode problems solved
